@@ -1,0 +1,19 @@
+{
+  "name": "buff-tiktok",
+  "version": "1.0.0",
+  "description": "A project to buff TikTok live view and comments using tiktok-live-connector",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "browser": "node browser.js"
+  },
+  "dependencies": {
+    "tiktok-live-connector": "^1.2.3",
+    "proxy-agent": "^5.0.0",
+    "dotenv": "^10.0.0",
+    "puppeteer": "^19.7.2",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "fs-extra": "^11.1.1"
+  }
+}
