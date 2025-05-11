@@ -1,5 +1,5 @@
 // Target TikTok username to buff
-const USERNAME = "@htienn1901";
+const USERNAME = "@quyenhuyenhoc";
 
 module.exports = {
   USERNAME,
